@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yc2064
 - 👀 I’m interested in ... blochainchain development.
-- 🌱 I’m currently learning ... solidity, javascript, react, web3.js.
+- 🌱 I’m currently learning ... taro.
 - 💞️ I’m looking to collaborate on ... blockchain industry.
 - 📫 How to reach me ... yolo2064@gmail.com
 
